@@ -1,0 +1,7 @@
+train: /Users/prabhaskalyan/Downloads/archive (3)/train/images
+val: /Users/prabhaskalyan/Downloads/archive (3)/val/images
+
+nc: 4
+
+names: ["with helmet", "without helmet", "rider", "number plate"]
+
